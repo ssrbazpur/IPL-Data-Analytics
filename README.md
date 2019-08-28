@@ -1,6 +1,6 @@
 # IPL Data Analytics
 
-![image](https://iplplatform-static-files.s3.amazonaws.com/IPL/photo/2018/05/13/445a4aab-3450-48d6-a0c1-5b56a78ddef5/logo.jpg)
+![image](https://seeklogo.com/images/V/vivo-ipl-logo-FF9B50C722-seeklogo.com.png)
 
 ## Context
 
