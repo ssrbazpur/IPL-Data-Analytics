@@ -1,6 +1,6 @@
 # IPL Data Analytics
 
-![image](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiJzJnSoqbkAhUDZN8KHb39CXoQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F2019_Indian_Premier_League&psig=AOvVaw1xMOXi1wnpZTAAiGqWSgn8&ust=1567105925526175)
+![image](https://iplplatform-static-files.s3.amazonaws.com/IPL/photo/2018/05/13/445a4aab-3450-48d6-a0c1-5b56a78ddef5/logo.jpg)
 
 ## Context
 
