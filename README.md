@@ -21,4 +21,4 @@ deliveries.csv is the ball-by-ball data of all the IPL matches including data of
 Source: http://cricsheet.org/ (data is available on this website in the YAML format. This is converted to CSV format by the contributors)
 
 ## Task
-Predicting the winner of the next season of IPL based on past data, Visualizations, Perspectives, etc.
+Data Exploration of IPL based on past data.
